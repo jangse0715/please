@@ -34,7 +34,7 @@ header{
   
   & > div:nth-child(2){
     border: 1px solid lightgray;
-    background-image: url("./31.jpg");
+    background-image: url("31.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     
@@ -48,7 +48,7 @@ header{
   & .sub-menu{
     width: 59%;
     height: 88%;
-    background-image: url("./amor.jpg");
+    background-image: url("amor.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
       
@@ -82,7 +82,7 @@ main{
 
   & > div:nth-child(1){
     border: 1px solid lightgray;
-    background-image: url("./sartre.jpg");
+    background-image: url("sartre.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
@@ -92,7 +92,7 @@ main{
   }
   & > div:nth-child(2){
     border: 1px solid lightgray;
-    background-image: url("./delueze.jpg");
+    background-image: url("delueze.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
@@ -101,7 +101,7 @@ main{
   }
   & > div:nth-child(3){
     border: 1px solid lightgray;
-    background-image: url("./hume.jpg");
+    background-image: url("hume.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
